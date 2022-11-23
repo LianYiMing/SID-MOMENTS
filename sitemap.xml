@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>moments.lianyiming.com/</loc>
+    <loc>/</loc>
     <lastmod>2022-11-23T09:48:19+08:00</lastmod>
   </url><url>
-    <loc>moments.lianyiming.com/moments/2022-11-23-col/</loc>
+    <loc>/moments/2022-11-23-col/</loc>
     <lastmod>2022-11-23T09:48:19+08:00</lastmod>
   </url><url>
-    <loc>moments.lianyiming.com/moments/</loc>
+    <loc>/moments/</loc>
     <lastmod>2022-11-23T09:48:19+08:00</lastmod>
   </url><url>
-    <loc>moments.lianyiming.com/moments/helloworld/</loc>
+    <loc>/moments/helloworld/</loc>
     <lastmod>2022-11-23T08:51:24+08:00</lastmod>
   </url><url>
-    <loc>moments.lianyiming.com/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>moments.lianyiming.com/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
